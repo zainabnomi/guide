@@ -279,7 +279,7 @@ GitHub-flavored markdown supports [syntax highlighting in code blocks](https://h
 
 To use it, indicate the language after ```.
 
-For example, the following Markdown
+For ex., the following Markdown
 
 ```markdown
     ```html
