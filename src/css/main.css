@@ -34,7 +34,7 @@
 :global td,
 :global th {
   border-bottom: 1px solid rgba(0, 0, 0, 0.12);
-  padding: 10px;
+  padding: 15px;
 }
 
 /* Breadcrumbs */
